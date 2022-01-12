@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(17, 111, 165);
+}
+
+h1,h2, h6 {
+    color: rgb(191, 184, 184);
+}
+
+div {
+    background-color: rgb(241, 241, 242);border-style: solid; border-color: black; border-radius: 5px; 
+}
+
+.h2 {
+    text-shadow: grey 1px 1px;
+}
+
+tr {
+    font-size: large ;
+    border-color: grey;
+}
+
+
+p {
+    font-size: large;
+    border-color: grey;
+
+}
+
+#mainImage{
+    height: 400 px;
+    width : auto;
+    border-radius: 50%;
+}
+
+ul { 
+ text-decoration: hsl(hue, saturation, lightness);
+}
